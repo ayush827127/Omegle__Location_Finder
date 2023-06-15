@@ -2,6 +2,8 @@
 This is created for storing the code for finding the location of omegle person.
 
 // GET YOUR API KEY FROM https://ipgeolocation.io/
+
+
 let apiKey = "0140769535b04374a03e401b347eab94";
 
 window.oRTCPeerConnection =
